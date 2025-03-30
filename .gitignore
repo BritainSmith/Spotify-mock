@@ -1,4 +1,17 @@
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
 .env
+*.env
+.venv/
+venv/
+instance/
+.flaskenv
+
+# VS Code
+.vscode/
+
+# Test reports or local files
+.coverage
+.pytest_cache/
